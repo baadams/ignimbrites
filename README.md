@@ -7,7 +7,7 @@ sythetic_landscape_data.mat - this is a binary Matlab file that contains the sum
   
 grow_up.ipynb - is a Jupyter Notebook set up to create landscape evolution models with in Landlab. This notebook allows the user to change boundary conditions and variable and save time slices as the landscape evolves with in a NETCDF file. See headers and comments for more detail.
   
-example_landscape.nc - this is a NETCDF file that includes the output data (e.g., topograpy, erosion rate, channel steepness) as a function of space and time with the Landlab grid.
+example_landscape.nc - this is a NETCDF file that includes the output data (e.g., topograpy, erosion rate, channel steepness) as a function of space and time with the Landlab grid. Follow this [(link)] to downlaod the file (https://liveuclac-my.sharepoint.com/:u:/g/personal/ucfbbad_ucl_ac_uk/EQk_5D-VfZxBkcn7ycCP_IYBXAr1YF2uXPZHGSn4N6emeg?e=VeY91w)
 
 landlab_analyzer.m - this is a Matlab script that is used to interrogate the NETCDF file and calculate useful matrics. See commented file for more details.
   
