@@ -1,7 +1,7 @@
 # Ignimbrites
 This repository contains the codes used to produce a suite of synthetic landscapes and a condensed version of the model outputs. These codes were written by Byron A. Adams. 
 
-<<Directory contents>>
+*Directory contents*
 sythetic_landscape_data.mat - this is a binary Matlab file that contains the summary metrics used to describe the output landscapes in the publication details below (e.g., channel steepness, range-scale slope, time to steady-state).
   
 grow_up.ipynb - is a Jupyter Notebook set up to create landscape evolution models with in Landlab. This notebook allows the user to change boundary conditions and variable and save time slices as the landscape evolves with in a NETCDF file. See headers and comments for more detail.
